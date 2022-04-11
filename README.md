@@ -7,3 +7,7 @@ This site is deployed at [API-documentation-site](1)
 ## Hosted site
 
 ![API-documentation-screenshot](site-screenshot.png)
+
+## Deployment
+
+To deploy run `firebase deploy --only hosting`
